@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A25B26BF27A8114200A07B69 /* MyNotificationCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A25B26BE27A8114200A07B69 /* MyNotificationCenter.swift */; };
 		A25B970027A6F8FC00F7B3C9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A25B96FF27A6F8FC00F7B3C9 /* AppDelegate.swift */; };
 		A25B970227A6F8FC00F7B3C9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A25B970127A6F8FC00F7B3C9 /* SceneDelegate.swift */; };
 		A25B970427A6F8FC00F7B3C9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A25B970327A6F8FC00F7B3C9 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A25B26BE27A8114200A07B69 /* MyNotificationCenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNotificationCenter.swift; sourceTree = "<group>"; };
 		A25B96FC27A6F8FC00F7B3C9 /* Patterns-Observer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Patterns-Observer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A25B96FF27A6F8FC00F7B3C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A25B970127A6F8FC00F7B3C9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				A25B96FF27A6F8FC00F7B3C9 /* AppDelegate.swift */,
 				A25B970127A6F8FC00F7B3C9 /* SceneDelegate.swift */,
+				A25B26BE27A8114200A07B69 /* MyNotificationCenter.swift */,
 				A25B970327A6F8FC00F7B3C9 /* ViewController.swift */,
 				A25B970527A6F8FC00F7B3C9 /* Main.storyboard */,
 				A25B970827A6F8FD00F7B3C9 /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A25B970427A6F8FC00F7B3C9 /* ViewController.swift in Sources */,
+				A25B26BF27A8114200A07B69 /* MyNotificationCenter.swift in Sources */,
 				A25B970027A6F8FC00F7B3C9 /* AppDelegate.swift in Sources */,
 				A25B970227A6F8FC00F7B3C9 /* SceneDelegate.swift in Sources */,
 			);
