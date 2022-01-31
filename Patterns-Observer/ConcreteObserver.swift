@@ -12,5 +12,4 @@ class ConcreteObserver: Observer {
     func update(subject: MyNotificationCenter) {
         print("FirstObserver: \(subject.state)")
     }
-    
 }
