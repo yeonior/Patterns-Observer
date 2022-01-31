@@ -9,11 +9,20 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var stateLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        
     }
 
-
+    @IBAction func updateAction(_ sender: UIButton) {
+        
+    }
+    
+    @IBAction func switchAction(_ sender: UISwitch) {
+        
+    }
 }
 
